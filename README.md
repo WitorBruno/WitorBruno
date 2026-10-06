@@ -24,11 +24,11 @@
     <img src="https://img.shields.io/badge/Discord-_wittor-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
-<a href="https://www.behance.net/wittor_">
+<a href="https://www.behance.net/witt0r">
     <img src="https://img.shields.io/badge/Portfolio-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white">
 </a>
 
-<a href="https://www.youtube.com/@wittor_">
+<a href="https://www.youtube.com/@w1ttor">
     <img src="https://img.shields.io/badge/YouTube-@wittor_-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
